@@ -1,5 +1,5 @@
 # TMF705_TestEnvironment
-TM Forum Open APIs (Apache 2.0)Test Environment API
+TM Forum Open APIs (Apache 2.0) Test Environment API
 
 Provides a standardized mechanism for the management of test artifacts related to test environment specification. These include Abstract Test Environments, Concrete Environment Metamodels used to map abstract environments to concrete test resources, Environment Provisioning Artifacts, and Test Resource APIs exposed to test cases.
 
