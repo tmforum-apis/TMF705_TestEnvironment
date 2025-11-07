@@ -1,8 +1,8 @@
-# TMF705_TestEnvironment
-TM Forum Open APIs (Apache 2.0) Test Environment API
+# TMF705 TestEnvironment
 
-Provides a standardized mechanism for the management of test artifacts related to test environment specification. These include Abstract Test Environments, Concrete Environment Metamodels used to map abstract environments to concrete test resources, Environment Provisioning Artifacts, and Test Resource APIs exposed to test cases.
+TM Forum Open API (Apache 2.0) TestEnvironment API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+TM Forum Open API for TestEnvironment.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
